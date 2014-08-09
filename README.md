@@ -1,6 +1,7 @@
 # opgg-ladder
 
 [![Build Status](https://img.shields.io/travis/KenanY/opgg-ladder.svg)](https://travis-ci.org/KenanY/opgg-ladder)
+[![Dependency Status](https://img.shields.io/gemnasium/KenanY/opgg-ladder.svg)](https://gemnasium.com/KenanY/opgg-ladder)
 
 Get [op.gg](http://op.gg/)'s ladder rankings.
 
