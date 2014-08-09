@@ -1,5 +1,7 @@
 # opgg-ladder
 
+[![Build Status](https://img.shields.io/travis/KenanY/opgg-ladder.svg)](https://travis-ci.org/KenanY/opgg-ladder)
+
 Get [op.gg](http://op.gg/)'s ladder rankings.
 
 The response returned by op.gg is plagued with HTML, which no one wants to work
