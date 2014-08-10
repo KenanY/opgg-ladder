@@ -8,7 +8,7 @@ var querystring = require('querystring');
 var HEADERS = {
   'Accept': 'application/json',
   'Content-Type': 'application/x-www-form-urlencoded',
-  'User-Agent': 'opgg-mmr'
+  'User-Agent': 'opgg-ladder'
 };
 
 /**
